@@ -1,0 +1,21 @@
+{
+  "status": "OK",
+  "images": [
+    {
+      "Url": "https://site1.testsite.com/images-us/images/aaa.jpg",
+      "Name": "THE BOYZ",
+      "domain": "site1.testsite.com",
+      "id": 687813882699529,
+      "title": "Just U",
+      "viewid": 687813882699529
+    },
+    {
+      "Url": "https://site2.testsite.com/images-us/images/bbb.jpg",
+      "Name": "Stray Kids",
+      "domain": "site2.testsite.com",
+      "id": 488388864388586,
+      "title": "3rd Eye",
+      "viewid": 488388864388586
+    }
+  ]
+}
